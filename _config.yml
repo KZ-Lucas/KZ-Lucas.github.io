@@ -18,7 +18,7 @@ statcounter:
 facebook:
   app_id: 127116027879734
 use_kakao_adfit:  false # 심사 통과시 true로 변경필요
-github_username:  designmeme
+github_username:  KZ-Lucas
 copyright:        © Jihye Lee
 
 # Front matter defaults
