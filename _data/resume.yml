@@ -68,18 +68,16 @@ projects:
 
 
 skills:
-  - 웹 표준, 브라우저 호환성, 반응형 웹, 웹 접근성, SEO, PWA
-  - SPA, Angular
-  - JavaScript(ES6), TypeScript, RxJS, jQuery
-  - HTML5, Jekyll, Liquid, Nunjucks
+  - 웹 표준, 브라우저 호환성, 반응형 웹, 웹 접근성, SEO
+  - SPA, React, NextJS, NestJS, AngularJS, ActionHero, KoaJS
+  - JavaScript(ES6), TypeScript, jQuery
+  - HTML5
   - CSS3, Sass
-  - Bootstrap, Material
-  - Git, npm, Gulp, Browsersync, Chrome DevTools, VirtualBox, WebStorm
-  - AWS(S3, Lambda), Firebase(Hosting, Functions), Travis CI
-  - Google Analytics, Google Tag Manager, Google Optimize, Amplitude, Airbridge, Facebook Pixel, Kakao Pixel
+  - Bootstrap, Material, Antd Design
+  - Git, npm, Gulp, VirtualBox
+  - AWS(S3, Lambda, ECS, EC2, ECR, SQS 등), Github Action
+  - Google Analytics
 
 tools:
   - Slack, Email
-  - '프로젝트 및 이슈 관리: Google Drive, GitHub, GitLab, Bitbucket, JIRA, Redmine, Notion, Wrike, Trello'
-  - '기획: Oven, AXURE, Balsamiq Mockups, PowerPoint'
-  - '디자인: Zeplin, InVision, Sketch'
+  - '프로젝트 및 이슈 관리: Google Drive, GitHub, GitLab, JIRA, Notion'
