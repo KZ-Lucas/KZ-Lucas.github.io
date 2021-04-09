@@ -36,34 +36,34 @@ projects:
     featured: false
 
   - title: 쇼핑몰 통합 관리 솔루션 통계 기능 개발 
-  date: [ 2020-02, 2020-04 ]
-  description: >
-    각 업체에게 상품별, 쇼핑몰별, 기초상품별 등 통계 기능을 제공하여, 고객 니즈 충족 및 사용자 편의성 제고를 도모함<br>
-    AngularJS, ActionHero, C3 Chart
-  client: (주)플레이오토
-  url: 
-  tags: [ mobile, tablet, desktop ]
-  featured: false
+    date: [ 2020-02, 2020-04 ]
+    description: >
+      각 업체에게 상품별, 쇼핑몰별, 기초상품별 등 통계 기능을 제공하여, 고객 니즈 충족 및 사용자 편의성 제고를 도모함<br>
+      AngularJS, ActionHero, C3 Chart
+    client: (주)플레이오토
+    url: 
+    tags: [ mobile, tablet, desktop ]
+    featured: false
 
   - title: 스와치 그룹 SAP 개발 진행
-  date: [ 2021-02, 2021-04 ]
-  description: >
-    스와치 그룹 ASP 주문 데이터 연동 및 쇼핑몰 주문 건 자동 출고 및 재고 처리 진행 <br>
-    NestJS(TypeScript), 자동 배포 구축을 위해 Amazon ECR, ECS 및 GitHub Action 사용 
-  client: (주)플레이오토
-  url: 
-  tags: [ SAP, Swatch ]
-  featured: false
+    date: [ 2021-02, 2021-04 ]
+    description: >
+      스와치 그룹 ASP 주문 데이터 연동 및 쇼핑몰 주문 건 자동 출고 및 재고 처리 진행 <br>
+      NestJS(TypeScript), 자동 배포 구축을 위해 Amazon ECR, ECS 및 GitHub Action 사용 
+    client: (주)플레이오토
+    url: 
+    tags: [ SAP, Swatch ]
+    featured: false
 
   - title: AngularJS 기반 쇼핑몰 통합 관리 솔루션 Migration
-  date: [ 2021-04, present ]
-  description: >
-    접근성이 높고 유지보수가 비교적 편한 React로 마이그레이션 진행 중 <br>
-    React + TypeScript, Redux + Saga, Antd Design, React2Angular Migration Library
-  client: (주)플레이오토
-  url: 
-  tags: [ React, Migration ]
-  featured: false
+    date: [ 2021-04, present ]
+    description: >
+      접근성이 높고 유지보수가 비교적 편한 React로 마이그레이션 진행 중 <br>
+      React + TypeScript, Redux + Saga, Antd Design, React2Angular Migration Library
+    client: (주)플레이오토
+    url: 
+    tags: [ React, Migration ]
+    featured: false
 
 
 
@@ -81,3 +81,4 @@ skills:
 tools:
   - Slack, Email
   - '프로젝트 및 이슈 관리: Google Drive, GitHub, GitLab, JIRA, Notion'
+  - '디자인: Zeplin, InVision, Sketch'
