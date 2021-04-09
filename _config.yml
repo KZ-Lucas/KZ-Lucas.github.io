@@ -2,10 +2,10 @@
 baseurl:          ""
 url:              https://kz-lucas.github.io
 
-title:            이지혜, 프론트엔드 웹 개발자
-description:      Freelance Front-end Web Developer
-author:           이지혜 Jihye Lee
-email:            ghe.lee19@gmail.com
+title:            최근원, 프론트엔드 웹 개발자
+description:      Front-end Web Developer
+author:           최근원 Geunwon Choi
+email:            chlrmsdnjs9862@gmail.com
 lang:             ko
 image:            /assets/image/common/feature.png # og_image, fb 고해상도 1200x630px, 8MB 이하
 
